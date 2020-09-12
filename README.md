@@ -1,21 +1,21 @@
 # Heroes App
 
-###Build node modules:
+### Build node modules:
 ```
 npm install
 ```
 
-###Run project:
+### Run project:
 ```
 npm start
 ```
 
-###Build project:
+### Build project:
 ```
 npm run build
 ```
 
-###Test project:
+### Test project:
 ```
 npm run test
 ```
